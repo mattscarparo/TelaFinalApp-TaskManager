@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tela Final Task Manager</string>
+    <string name="text_tasks_completed">All tasks completed</string>
+    <string name="text_subtitle_tasks">Nice work!</string>
+</resources>
